@@ -40,7 +40,7 @@ time.sleep(3)
 # Passo 3 - Importar base de dados
 import pandas as pd
 
-tabela = pd.read_csv("produtos.csv", encoding='utf-8')
+tabela = pd.read_csv("C:/Users/igora/OneDrive/Documentos/GitHub/data_analysis_notebook/hashtag/produtos.csv", encoding='utf-8')
 print(tabela)
 
 # Passo 4 - cadastrar um produto
